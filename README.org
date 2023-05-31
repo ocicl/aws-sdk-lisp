@@ -1,0 +1,9 @@
+* aws-sdk-lisp
+
+AWS-SDK for Common Lisp
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/pokepay/aws-sdk-lisp.git |
+| commit  | 403c5a0                                         |
+| systems | aws-sdk-lisp                                    |
+|---------+-------------------------------------------------|
