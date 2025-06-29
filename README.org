@@ -2,8 +2,8 @@
 
 AWS-SDK for Common Lisp
 
-|---------+-------------------------------------------------|
-| source  | git:https://github.com/pokepay/aws-sdk-lisp.git |
-| commit  | b5ae82b                                         |
-| systems | aws-sdk                                         |
-|---------+-------------------------------------------------|
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/cdmojoli/aws-sdk-lisp.git |
+| commit  | 23c79f7                                          |
+| systems | awk-sdk                                          |
+|---------+--------------------------------------------------|
