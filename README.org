@@ -4,6 +4,6 @@ AWS-SDK for Common Lisp
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/cdmojoli/aws-sdk-lisp.git |
-| commit  | 23c79f7                                          |
+| commit  | 7e32b85                                          |
 | systems | aws-sdk                                          |
 |---------+--------------------------------------------------|
